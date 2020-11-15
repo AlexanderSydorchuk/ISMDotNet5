@@ -1,0 +1,6 @@
+C:\Users\Sasha\source\repos\ISMDotNet5\LibArray\bin\Debug\LibArray.dll
+C:\Users\Sasha\source\repos\ISMDotNet5\LibArray\bin\Debug\LibArray.pdb
+C:\Users\Sasha\source\repos\ISMDotNet5\LibArray\obj\Debug\LibArray.csprojAssemblyReference.cache
+C:\Users\Sasha\source\repos\ISMDotNet5\LibArray\obj\Debug\LibArray.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\ISMDotNet5\LibArray\obj\Debug\LibArray.dll
+C:\Users\Sasha\source\repos\ISMDotNet5\LibArray\obj\Debug\LibArray.pdb
